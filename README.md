@@ -103,7 +103,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/alex-su%C3%A1rez-611609272/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
+  </a>
+  <a href="https://github.com/Ascian159" target="_blank">
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=github"/></code>
   </a>
     
 </p>
