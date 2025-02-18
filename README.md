@@ -3,14 +3,9 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
 <br/>
 <br/>
-
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
-
 - 🔭 I'm currently looking for a job.
 - 🌱 I'm currently learning the "FastAPI" framework.
 - 👯 I'm open to any job offers in the "Back-End" area.
@@ -37,7 +32,6 @@
 
 #
 
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -56,9 +50,7 @@
 </details>
 <br>
 
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ascian159&theme=react-dark&hide_border=true&area=true)
-
 
 <h4 align="center">
   
@@ -97,11 +89,6 @@
   </a>
     
 </p>
-<br/>
-
-
-
-<br/>
 <br/>
 
 <p align="center">
