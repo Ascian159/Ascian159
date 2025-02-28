@@ -1,11 +1,8 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇i, Nice To Meet You!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-<br/>
-<br>
-<br/>
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - 🔭 I'm currently looking for a job.
