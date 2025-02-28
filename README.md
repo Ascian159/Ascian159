@@ -37,10 +37,10 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,html,css,git,github,cs" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,mongodb,postgres,html,css,git,github,cs" />
   </a>
 </p>
-<br/>
+<br>
 <br/>
 
 <br/>
