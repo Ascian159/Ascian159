@@ -4,6 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 <br/>
+<br>
 <br/>
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 - 🔭 I'm currently looking for a job.
@@ -14,6 +15,7 @@
 - ⚡ Fun fact: There's nothing a good cup of coffee can't fix.
 
 <br/>
+<br>
 <br/>
 
 
