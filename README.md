@@ -7,6 +7,7 @@
 <br>
 <br/>
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 - 🔭 I'm currently looking for a job.
 - 🌱 I'm currently learning the "FastAPI" framework.
 - 👯 I'm open to any job offers in the "Back-End" area.
@@ -33,6 +34,14 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <p align="center">
